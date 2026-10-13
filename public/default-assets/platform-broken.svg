@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 24" width="64" height="24">
+  <!-- Left broken half -->
+  <polygon points="2,2 28,2 26,16 2,14" fill="#a16207" stroke="#713f12" stroke-width="1.5"/>
+  <!-- Right broken half falling -->
+  <polygon points="34,6 62,2 62,14 36,20" fill="#a16207" stroke="#713f12" stroke-width="1.5"/>
+</svg>

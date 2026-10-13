@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jumpy Doodle Admin</title>
+    <link rel="icon" href="/default-assets/logo.svg" />
+    <link rel="stylesheet" href="/styles/tailwind.css" />
+  </head>
+  <body class="bg-gray-100 text-gray-900 min-h-screen flex flex-col font-sans">
+    <div id="admin-app" class="flex-1 flex flex-col"></div>
+    <div id="toast-container" class="fixed bottom-5 right-5 z-50 flex flex-col space-y-2 pointer-events-none"></div>
+    <div id="modal-container" class="fixed inset-0 z-40 hidden flex items-center justify-center p-4 bg-black/50 backdrop-blur-xs"></div>
+    <script type="module" src="/admin/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="2" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect x="5" y="5" width="270" height="70" rx="20" fill="#70c040" filter="url(#shadow)"/>
+  <rect x="8" y="8" width="264" height="64" rx="17" fill="none" stroke="#559930" stroke-width="3" stroke-dasharray="6,4"/>
+  <text x="140" y="48" font-family="'Comic Sans MS', cursive, sans-serif" font-weight="900" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="1">JUMPY DOODLE</text>
+  <circle cx="28" cy="24" r="7" fill="#f8e71c"/>
+  <circle cx="250" cy="56" r="5" fill="#f8e71c"/>
+</svg>

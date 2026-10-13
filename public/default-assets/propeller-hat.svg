@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 25" width="40" height="25">
+  <rect x="18" y="6" width="4" height="10" fill="#4a5568"/>
+  <ellipse cx="20" cy="5" rx="16" ry="3" fill="#f59e0b"/>
+  <circle cx="20" cy="5" r="3" fill="#dc2626"/>
+  <!-- Cap base -->
+  <path d="M 10,18 C 10,13 30,13 30,18 Z" fill="#3b82f6"/>
+</svg>

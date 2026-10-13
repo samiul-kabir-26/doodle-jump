@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 55" width="70" height="55">
+  <!-- Body -->
+  <path d="M 10,32 C 6,12 24,8 35,8 C 46,8 64,12 60,32 C 58,48 46,50 35,50 C 24,50 12,48 10,32 Z" fill="#e11d48" stroke="#9f1239" stroke-width="2.5"/>
+  <!-- Spikes -->
+  <polygon points="18,10 14,2 24,8" fill="#facc15"/>
+  <polygon points="35,8 35,0 39,8" fill="#facc15"/>
+  <polygon points="52,10 56,2 46,8" fill="#facc15"/>
+  <!-- 3 Eyes -->
+  <circle cx="22" cy="22" r="5" fill="#ffffff" stroke="#9f1239" stroke-width="1.5"/>
+  <circle cx="35" cy="20" r="6" fill="#ffffff" stroke="#9f1239" stroke-width="1.5"/>
+  <circle cx="48" cy="22" r="5" fill="#ffffff" stroke="#9f1239" stroke-width="1.5"/>
+  <circle cx="22" cy="22" r="2.5" fill="#1e1b4b"/>
+  <circle cx="35" cy="20" r="3" fill="#1e1b4b"/>
+  <circle cx="48" cy="22" r="2.5" fill="#1e1b4b"/>
+  <!-- Mouth with fangs -->
+  <path d="M 22,36 Q 35,44 48,36" stroke="#4c0519" stroke-width="2.5" fill="none"/>
+  <polygon points="28,37 31,41 33,37" fill="#ffffff"/>
+  <polygon points="37,37 39,41 42,37" fill="#ffffff"/>
+</svg>

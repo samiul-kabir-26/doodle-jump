@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="60" height="40">
+  <!-- Dome -->
+  <ellipse cx="30" cy="16" rx="14" ry="10" fill="#67e8f9" opacity="0.8" stroke="#0891b2" stroke-width="1.5"/>
+  <circle cx="30" cy="16" r="4" fill="#a5f3fc"/>
+  <!-- Saucer -->
+  <ellipse cx="30" cy="24" rx="26" ry="8" fill="#475569" stroke="#1e293b" stroke-width="2"/>
+  <!-- Lights -->
+  <circle cx="16" cy="24" r="2" fill="#facc15"/>
+  <circle cx="25" cy="26" r="2" fill="#22c55e"/>
+  <circle cx="35" cy="26" r="2" fill="#22c55e"/>
+  <circle cx="44" cy="24" r="2" fill="#facc15"/>
+</svg>

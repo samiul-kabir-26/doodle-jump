@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <!-- Feet -->
+  <ellipse cx="40" cy="56" rx="4" ry="3" fill="#8ca93e"/>
+  <ellipse cx="32" cy="57" rx="4" ry="2.5" fill="#8ca93e"/>
+  <ellipse cx="24" cy="56" rx="4" ry="3" fill="#8ca93e"/>
+  <ellipse cx="16" cy="57" rx="4" ry="2.5" fill="#8ca93e"/>
+  <!-- Body -->
+  <path d="M 42,36 C 44,18 36,10 25,10 C 13,10 8,20 8,36 C 8,48 14,54 26,54 C 38,54 42,48 42,36 Z" fill="#bada55" stroke="#728c28" stroke-width="2.5"/>
+  <!-- Snout -->
+  <path d="M 15,28 C 6,27 2,28 0,31 C 2,34 6,34 15,33 Z" fill="#bada55" stroke="#728c28" stroke-width="2.5"/>
+  <!-- Snout hole -->
+  <ellipse cx="2" cy="31" rx="1.5" ry="2.5" fill="#586d1f"/>
+  <!-- Eyes -->
+  <ellipse cx="27" cy="20" rx="3.5" ry="4.5" fill="#ffffff" stroke="#728c28" stroke-width="1.5"/>
+  <ellipse cx="18" cy="19" rx="3.5" ry="4.5" fill="#ffffff" stroke="#728c28" stroke-width="1.5"/>
+  <!-- Pupils -->
+  <circle cx="25" cy="20" r="2" fill="#1f2937"/>
+  <circle cx="16" cy="19" r="2" fill="#1f2937"/>
+  <circle cx="24" cy="19" r="0.7" fill="#ffffff"/>
+  <circle cx="15" cy="18" r="0.7" fill="#ffffff"/>
+</svg>
